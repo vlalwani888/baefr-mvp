@@ -18,7 +18,7 @@ Follow these precise steps to pull the code and run the application on your loca
 
 ### 1. Clone the Repository
 Run this in your terminal:
-> git clone <YOUR_GITHUB_REPO_URL_HERE>
+> git clone https://github.com/vlalwani888/baefr-mvp.git
 > cd baefr-mvp
 
 ### 2. Install Dependencies
